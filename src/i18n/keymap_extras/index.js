@@ -9,6 +9,7 @@ import danish from './keymap_danish';
 import dvorak from './keymap_dvorak';
 import dvorak_fr from './keymap_dvorak_fr';
 import dvorak_programmer from './keymap_dvorak_programmer';
+import ergol from './keymap_ergol';
 import estonian from './keymap_estonian';
 import finnish from './keymap_finnish';
 import french from './keymap_french';
@@ -202,6 +203,13 @@ export default {
       'en-ZW'
     ],
     keycodeLUT: dvorak_programmer
+  },
+  keymap_ergol: {
+    prefix: 'EL',
+    sendstring: 'ergol',
+    isANSI: false,
+    locales: ['fr', 'fr-FR', 'fr-BE', 'fr-CH', 'fr-LU', 'fr-CA', 'fr-MC'],
+    keycodeLUT: ergol
   },
   keymap_estonian: {
     prefix: 'EE',

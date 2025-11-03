@@ -10,6 +10,7 @@ export default [
   'keymap_dvorak_fr',
   'keymap_dvorak',
   'keymap_dvorak_programmer',
+  'keymap_ergol',
   'keymap_estonian',
   'keymap_finnish',
   'keymap_french_afnor',

@@ -136,6 +136,7 @@ settingsPanel:osKeyboardLayout:option:keymap_danish,Датский (Дания)
 settingsPanel:osKeyboardLayout:option:keymap_dvorak,Дворак (DSK)
 settingsPanel:osKeyboardLayout:option:keymap_dvorak_fr,Французский (Дворак)
 settingsPanel:osKeyboardLayout:option:keymap_dvorak_programmer,Дворак программиста
+settingsPanel:osKeyboardLayout:option:keymap_ergol,Французский (Ergo‑L)
 settingsPanel:osKeyboardLayout:option:keymap_estonian,Эстонский (Эстония)
 settingsPanel:osKeyboardLayout:option:keymap_finnish,Финский (Финляндия)
 settingsPanel:osKeyboardLayout:option:keymap_french,Французский (Франция)
